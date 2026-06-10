@@ -23,7 +23,7 @@ This project is not affiliated with or developed by the creators of @dohatbot. I
 
 You can watch the bot in action here:
 
-👉 [View video on Telegram](https://t.me/saherehrobot/13)
+👉 https://t.me/saherehrobot/13
 
 ---
 
@@ -37,7 +37,38 @@ You can watch the bot in action here:
 
 ## 📦 Installation
 
-`bash
-git clone https://github.com/Khodadust/sahere.git
-cd sahere
-pip install -r requirements.txt
+git clone https://github.com/Khodadust/sahere.git  
+cd sahere  
+pip install -r requirements.txt  
+
+---
+
+## ⚙️ Configuration
+
+- Open msg.py  
+- Add your Telegram Bot Token in the last lines of the file 🔑  
+
+---
+
+## ▶️ Run
+
+python msg.py  
+
+---
+
+## 🗃️ Database
+
+The bot uses SQLite as its database system.  
+The database file is created automatically when the bot runs for the first time.
+
+---
+
+## 🎯 Purpose
+
+Sahere is designed to make the @dohatbot Mafia game experience more interactive and entertaining by adding social connection tools, reward systems, and mini-games.
+
+---
+
+## ⚠️ Disclaimer
+
+This project is independent and not officially connected to @dohatbot or its developers.
